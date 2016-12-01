@@ -1,2 +1,2 @@
 My first Git repository.
-And commits.
+Edited file.
